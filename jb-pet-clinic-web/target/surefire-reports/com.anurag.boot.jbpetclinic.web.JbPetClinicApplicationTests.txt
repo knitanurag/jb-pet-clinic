@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.anurag.boot.jbpetclinic.web.JbPetClinicApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.126 s - in com.anurag.boot.jbpetclinic.web.JbPetClinicApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.067 s - in com.anurag.boot.jbpetclinic.web.JbPetClinicApplicationTests

@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.anurag.boot</groupId>
 	<artifactId>jb-pet-clinic</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<modules>
 		<module>jb-pet-clinic-data</module>
 		<module>jb-pet-clinic-web</module>
