@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.anurag.boot</groupId>
 	<artifactId>jb-pet-clinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<modules>
 		<module>jb-pet-clinic-data</module>
 		<module>jb-pet-clinic-web</module>
@@ -38,6 +38,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
