@@ -2,6 +2,10 @@ package com.anurag.boot.jbpetclinic.data.model;
 
 public class Person extends BaseEntity{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2977219033530137437L;
 	private String firstrname;
 	private String lastName;
 
