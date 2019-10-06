@@ -14,13 +14,11 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
 
 	@Override
 	public Set<Owner> findAll() {
-		// TODO Auto-generated method stub
 		return super.findAll();
 	}
 
 	@Override
 	public Owner findById(Long id) {
-		// TODO Auto-generated method stub
 		return super.findById(id);
 	}
 

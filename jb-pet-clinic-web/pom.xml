@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.anurag.boot</groupId>
 		<artifactId>jb-pet-clinic</artifactId>
-		<version>0.0.4-SNAPSHOT</version>
+		<version>0.0.5-SNAPSHOT</version>
 	</parent>
 	<artifactId>jb-pet-clinic-web</artifactId>
 	<name>jb-pet-clinic-web</name>
@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>com.anurag.boot</groupId>
 			<artifactId>jb-pet-clinic-data</artifactId>
-			<version>0.0.4-SNAPSHOT</version>
+			<version>0.0.5-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
