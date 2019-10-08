@@ -1,20 +1,20 @@
 package com.anurag.boot.jbpetclinic.data.model;
 
-public class Person extends BaseEntity{
+public class Person extends BaseEntity {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 2977219033530137437L;
-	private String firstrname;
+	private String firstName;
 	private String lastName;
 
-	public String getFirstrname() {
-		return firstrname;
+	public String getFirstName() {
+		return firstName;
 	}
 
-	public void setFirstrname(String firstrname) {
-		this.firstrname = firstrname;
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
 	}
 
 	public String getLastName() {
@@ -24,5 +24,7 @@ public class Person extends BaseEntity{
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
+
+	
 
 }
